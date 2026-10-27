@@ -1,7 +1,6 @@
 #include <iostream>
 #include <string>
 using namespace std;
-//121321
 
 int main() {
     setlocale(LC_ALL, "ru_RU.UTF-8");
